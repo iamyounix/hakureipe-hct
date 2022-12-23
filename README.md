@@ -4,7 +4,6 @@ Windows Recovery Portable Environment with HFS+ Support
 ## What is HakureiPE
 
 **Hakurei PE** is a Windows 10 based Live USB Environment and dedicated to providing more flexible Windows PC maintenance experience. 
-It has been implemented into **Hikari PE V9.0 Preview 4 SC** that targeted to Simplified Chinese users.
 
 ## Requirement
 
