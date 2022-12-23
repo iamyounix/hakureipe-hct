@@ -72,10 +72,6 @@ It has been implemented into **Hikari PE V9.0 Preview 4 SC** that targeted to Si
   
 Original Link: [HikariPE](https://tpedutw-my.sharepoint.com/personal/hikaricalyx_tp_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhikaricalyx%5Ftp%5Fedu%5Ftw%2FDocuments%2FHikari%5FPE%5FProject%2FNon%2DChinese%20Version%2FEN&ga=1) - v4.0 - v8.52 | Download: [HakureiPE-HCT](https://drive.google.com/drive/folders/1SvnohC5uszZR1smIBMp3oNjMpdSCsUKt?usp=sharing)
 
-![hipev9_03-1024x576](https://user-images.githubusercontent.com/72515939/209294886-cb3f440c-149c-4d0b-9561-10aea217b136.png)
-![hipev9_02-1024x576](https://user-images.githubusercontent.com/72515939/209294899-6d228785-4c5b-4c40-bfd5-f14776c6e3bf.png)
-![hipev9_passwordremoval-1024x576](https://user-images.githubusercontent.com/72515939/209294905-2803ea1b-60d7-4413-8b3b-40b5f9b4b291.png)
-
 ## Credits 
 
 [HikariPE](https://hikaricalyx.com/hikaripe/)
