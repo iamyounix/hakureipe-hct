@@ -1,5 +1,5 @@
 # HakureiPE HCT
-Windows Recovery Portable Environment with HFS+ Support
+Windows Portable Environment Recovery with HFS+ Support
 
 ## What is HakureiPE
 
