@@ -49,9 +49,6 @@ Windows Portable Environment Recovery with HFS+ Support
 | Resolution | min: 1024×768 or higher, recommend: 1920×1080 or higher                                                                                           |
 | Changelog  | Component:Dism++ 10.1.1002.1, DiskGenius 5.4.6.1432, CPU-Z 2.02, VirtualHere USB Client 5.3.9, WinNTSetup 5.2.6, macOS HFS+ Loader (HFS+ FS R/W)  |
 
-  
-Original Link: [HikariPE](https://tpedutw-my.sharepoint.com/personal/hikaricalyx_tp_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhikaricalyx%5Ftp%5Fedu%5Ftw%2FDocuments%2FHikari%5FPE%5FProject%2FNon%2DChinese%20Version%2FEN&ga=1) - v4.0 - v8.52 | Download: [HakureiPE-HCT](https://drive.google.com/drive/folders/1SvnohC5uszZR1smIBMp3oNjMpdSCsUKt?usp=sharing)
-
 ## Download and Merge
 
 * Download
