@@ -2,13 +2,13 @@
 
 **Table of contents**
 
+Windows Portable Environment Recovery with HFS+ Support. It is a Windows 10 based Live USB Environment and dedicated to providing more flexible Windows PC maintenance experience. 
+
 - [HakureiPE HCT](#hakureipe-hct)
   - [Requirement](#requirement)
   - [Download](#download)
   - [Changelog](#changelog)
 - [Credits](#credits)
-
-Windows Portable Environment Recovery with HFS+ Support. It is a Windows 10 based Live USB Environment and dedicated to providing more flexible Windows PC maintenance experience. 
 
 ## Requirement
 
