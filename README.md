@@ -52,8 +52,6 @@ Images has been split to multiple files. We need to merge after all files succes
     git clone https://github.com/theofficialcopypaste/HakureiPE-HCT.git
     ```
 
-![hakureipe-os][hakurei-scrsht]
-
 - Merge using any archive / compress tool. ie: `zip`, `7zip` or `keka` etc)
 
 ## Changelog
@@ -69,4 +67,3 @@ Images has been split to multiple files. We need to merge after all files succes
 [HikariPE][hikari-os]
 
 [hikari-os]: https://hikaricalyx.com/hikaripe/
-[hakurei-scrsht]: https://user-images.githubusercontent.com/72515939/214858606-7d72c0fa-344e-4570-8635-b7658780090b.png
